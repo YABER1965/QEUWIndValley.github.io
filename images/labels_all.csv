@@ -1,0 +1,401 @@
+NO,NOA,file_name,camNO,degX,degY,degZ,posX,posY,label,rtm,remarks
+0,0,camera0_0_0_0_89_0_0_0_square,0,0,0,89,0,0,0,tani,square
+1,1,camera1_1_0_0_89_0_0_0_square,1,0,0,89,0,0,0,tani,square
+2,2,camera2_2_0_0_89_0_0_0_square,2,0,0,89,0,0,0,tani,square
+3,3,camera3_3_0_0_89_0_0_0_square,3,0,0,89,0,0,0,tani,square
+4,4,camera4_4_0_0_89_0_0_0_square,4,0,0,89,0,0,0,tani,square
+5,5,camera5_0_0_0_100_0_1.46_0_square,0,0,0,100,0,1.46,0,signal,square
+6,6,camera6_1_0_0_100_0_1.46_0_square,1,0,0,100,0,1.46,0,signal,square
+7,7,camera7_2_0_0_100_0_1.46_0_square,2,0,0,100,0,1.46,0,signal,square
+8,8,camera8_3_0_0_100_0_1.46_0_square,3,0,0,100,0,1.46,0,signal,square
+9,9,camera9_4_0_0_100_0_1.46_0_square,4,0,0,100,0,1.46,0,signal,square
+10,10,camera10_0_0_0_83_0_005_0_square,0,0,0,83,0,0.05,0,signal,square
+11,11,camera11_1_0_0_83_0_005_0_square,1,0,0,83,0,0.05,0,signal,square
+12,12,camera12_2_0_0_83_0_005_0_square,2,0,0,83,0,0.05,0,signal,square
+13,13,camera13_3_0_0_83_0_005_0_square,3,0,0,83,0,0.05,0,signal,square
+14,14,camera14_4_0_0_83_0_005_0_square,4,0,0,83,0,0.05,0,signal,square
+15,15,camera15_0_0_0_98_0_m015_0_square,0,0,0,98,0,-0.15,0,tani,square
+16,16,camera16_1_0_0_98_0_m015_0_square,1,0,0,98,0,-0.15,0,tani,square
+17,17,camera17_2_0_0_98_0_m015_0_square,2,0,0,98,0,-0.15,0,tani,square
+18,18,camera18_3_0_0_98_0_m015_0_square,3,0,0,98,0,-0.15,0,tani,square
+19,19,camera19_4_0_0_98_0_m015_0_square,4,0,0,98,0,-0.15,0,tani,square
+20,20,camera20_0_0_0_101_0_m064_0_square,0,0,0,101,0,-0.64,0,signal,square
+21,21,camera21_1_0_0_101_0_m064_0_square,1,0,0,101,0,-0.64,0,signal,square
+22,22,camera22_2_0_0_101_0_m064_0_square,2,0,0,101,0,-0.64,0,signal,square
+23,23,camera23_3_0_0_101_0_m064_0_square,3,0,0,101,0,-0.64,0,signal,square
+24,24,camera24_4_0_0_101_0_m064_0_square,4,0,0,101,0,-0.64,0,signal,square
+25,25,camera25_0_0_0_88_0_1.99_0_square,0,0,0,88,0,1.99,0,signal,square
+26,26,camera26_1_0_0_88_0_1.99_0_square,1,0,0,88,0,1.99,0,signal,square
+27,27,camera27_2_0_0_88_0_1.99_0_square,2,0,0,88,0,1.99,0,signal,square
+28,28,camera28_3_0_0_88_0_1.99_0_square,3,0,0,88,0,1.99,0,signal,square
+29,29,camera29_4_0_0_88_0_1.99_0_square,4,0,0,88,0,1.99,0,signal,square
+30,30,camera30_0_0_0_104_0_1.25_0_square,0,0,0,104,0,1.25,0,signal,square
+31,31,camera31_1_0_0_104_0_1.25_0_square,1,0,0,104,0,1.25,0,signal,square
+32,32,camera32_2_0_0_104_0_1.25_0_square,2,0,0,104,0,1.25,0,signal,square
+33,33,camera33_3_0_0_104_0_1.25_0_square,3,0,0,104,0,1.25,0,signal,square
+34,34,camera34_4_0_0_104_0_1.25_0_square,4,0,0,104,0,1.25,0,signal,square
+35,35,camera35_0_0_0_82_0_m2.06_0_square,0,0,0,82,0,-2.06,0,signal,square
+36,36,camera36_1_0_0_82_0_m2.06_0_square,1,0,0,82,0,-2.06,0,signal,square
+37,37,camera37_2_0_0_82_0_m2.06_0_square,2,0,0,82,0,-2.06,0,signal,square
+38,38,camera38_3_0_0_82_0_m2.06_0_square,3,0,0,82,0,-2.06,0,signal,square
+39,39,camera39_4_0_0_82_0_m2.06_0_square,4,0,0,82,0,-2.06,0,signal,square
+40,40,camera40_0_0_0_91_0_m1.98_0_square,0,0,0,91,0,-1.98,0,signal,square
+41,41,camera41_1_0_0_91_0_m1.98_0_square,1,0,0,91,0,-1.98,0,signal,square
+42,42,camera42_2_0_0_91_0_m1.98_0_square,2,0,0,91,0,-1.98,0,signal,square
+43,43,camera43_3_0_0_91_0_m1.98_0_square,3,0,0,91,0,-1.98,0,signal,square
+44,44,camera44_4_0_0_91_0_m1.98_0_square,4,0,0,91,0,-1.98,0,signal,square
+45,45,camera45_0_0_0_91_0_1.79_0_square,0,0,0,91,0,1.79,0,signal,square
+46,46,camera46_1_0_0_91_0_1.79_0_square,1,0,0,91,0,1.79,0,signal,square
+47,47,camera47_2_0_0_91_0_1.79_0_square,2,0,0,91,0,1.79,0,signal,square
+48,48,camera48_3_0_0_91_0_1.79_0_square,3,0,0,91,0,1.79,0,signal,square
+49,49,camera49_4_0_0_91_0_1.79_0_square,4,0,0,91,0,1.79,0,signal,square
+50,0,camera0_0_0_0_89_0_0_1_circle,0,0,0,89,0,0,1,tani,circle
+51,1,camera1_1_0_0_89_0_0_1_circle,1,0,0,89,0,0,1,tani,circle
+52,2,camera2_2_0_0_89_0_0_1_circle,2,0,0,89,0,0,1,tani,circle
+53,3,camera3_3_0_0_89_0_0_1_circle,3,0,0,89,0,0,1,tani,circle
+54,4,camera4_4_0_0_89_0_0_1_circle,4,0,0,89,0,0,1,tani,circle
+55,5,camera5_0_0_0_104_0_m029_1_circle,0,0,0,104,0,-0.29,1,signal,circle
+56,6,camera6_1_0_0_104_0_m029_1_circle,1,0,0,104,0,-0.29,1,signal,circle
+57,7,camera7_2_0_0_104_0_m029_1_circle,2,0,0,104,0,-0.29,1,signal,circle
+58,8,camera8_3_0_0_104_0_m029_1_circle,3,0,0,104,0,-0.29,1,signal,circle
+59,9,camera9_4_0_0_104_0_m029_1_circle,4,0,0,104,0,-0.29,1,signal,circle
+60,10,camera10_0_0_0_98_0_183_1_circle,0,0,0,98,0,1.83,1,signal,circle
+61,11,camera11_1_0_0_98_0_183_1_circle,1,0,0,98,0,1.83,1,signal,circle
+62,12,camera12_2_0_0_98_0_183_1_circle,2,0,0,98,0,1.83,1,signal,circle
+63,13,camera13_3_0_0_98_0_183_1_circle,3,0,0,98,0,1.83,1,signal,circle
+64,14,camera14_4_0_0_98_0_183_1_circle,4,0,0,98,0,1.83,1,signal,circle
+65,15,camera15_0_0_0_76_0_213_1_circle,0,0,0,76,0,2.13,1,signal,circle
+66,16,camera16_1_0_0_76_0_213_1_circle,1,0,0,76,0,2.13,1,signal,circle
+67,17,camera17_2_0_0_76_0_213_1_circle,2,0,0,76,0,2.13,1,signal,circle
+68,18,camera18_3_0_0_76_0_213_1_circle,3,0,0,76,0,2.13,1,signal,circle
+69,19,camera19_4_0_0_76_0_213_1_circle,4,0,0,76,0,2.13,1,signal,circle
+70,20,camera20_0_0_0_104_0_157_1_circle,0,0,0,104,0,1.57,1,signal,circle
+71,21,camera21_1_0_0_104_0_157_1_circle,1,0,0,104,0,1.57,1,signal,circle
+72,22,camera22_2_0_0_104_0_157_1_circle,2,0,0,104,0,1.57,1,signal,circle
+73,23,camera23_3_0_0_104_0_157_1_circle,3,0,0,104,0,1.57,1,signal,circle
+74,24,camera24_4_0_0_104_0_157_1_circle,4,0,0,104,0,1.57,1,signal,circle
+75,25,camera25_0_0_0_89_0_168_1_circle,0,0,0,89,0,1.68,1,signal,circle
+76,26,camera26_1_0_0_89_0_168_1_circle,1,0,0,89,0,1.68,1,signal,circle
+77,27,camera27_2_0_0_89_0_168_1_circle,2,0,0,89,0,1.68,1,signal,circle
+78,28,camera28_3_0_0_89_0_168_1_circle,3,0,0,89,0,1.68,1,signal,circle
+79,29,camera29_4_0_0_89_0_168_1_circle,4,0,0,89,0,1.68,1,signal,circle
+80,30,camera30_0_0_0_88_0_059_1_circle,0,0,0,88,0,0.59,1,tani,circle
+81,31,camera31_1_0_0_88_0_059_1_circle,1,0,0,88,0,0.59,1,tani,circle
+82,32,camera32_2_0_0_88_0_059_1_circle,2,0,0,88,0,0.59,1,tani,circle
+83,33,camera33_3_0_0_88_0_059_1_circle,3,0,0,88,0,0.59,1,tani,circle
+84,34,camera34_4_0_0_88_0_059_1_circle,4,0,0,88,0,0.59,1,tani,circle
+85,35,camera35_0_0_0_100_0_166_1_circle,0,0,0,100,0,1.66,1,signal,circle
+86,36,camera36_1_0_0_100_0_166_1_circle,1,0,0,100,0,1.66,1,signal,circle
+87,37,camera37_2_0_0_100_0_166_1_circle,2,0,0,100,0,1.66,1,signal,circle
+88,38,camera38_3_0_0_100_0_166_1_circle,3,0,0,100,0,1.66,1,signal,circle
+89,39,camera39_4_0_0_100_0_166_1_circle,4,0,0,100,0,1.66,1,signal,circle
+90,40,camera40_0_0_0_78_0_m169_1_circle,0,0,0,78,0,-1.69,1,signal,circle
+91,41,camera41_1_0_0_78_0_m169_1_circle,1,0,0,78,0,-1.69,1,signal,circle
+92,42,camera42_2_0_0_78_0_m169_1_circle,2,0,0,78,0,-1.69,1,signal,circle
+93,43,camera43_3_0_0_78_0_m169_1_circle,3,0,0,78,0,-1.69,1,signal,circle
+94,44,camera44_4_0_0_78_0_m169_1_circle,4,0,0,78,0,-1.69,1,signal,circle
+95,45,camera45_0_0_0_86_0_m131_1_circle,0,0,0,86,0,-1.31,1,signal,circle
+96,46,camera46_1_0_0_86_0_m131_1_circle,1,0,0,86,0,-1.31,1,signal,circle
+97,47,camera47_2_0_0_86_0_m131_1_circle,2,0,0,86,0,-1.31,1,signal,circle
+98,48,camera48_3_0_0_86_0_m131_1_circle,3,0,0,86,0,-1.31,1,signal,circle
+99,49,camera49_4_0_0_86_0_m131_1_circle,4,0,0,86,0,-1.31,1,signal,circle
+100,0,camera0_0_0_0_89_0_0_2_triangle,0,0,0,89,0,0,2,tani,triangle
+101,1,camera1_1_0_0_89_0_0_2_triangle,1,0,0,89,0,0,2,tani,triangle
+102,2,camera2_2_0_0_89_0_0_2_triangle,2,0,0,89,0,0,2,tani,triangle
+103,3,camera3_3_0_0_89_0_0_2_triangle,3,0,0,89,0,0,2,tani,triangle
+104,4,camera4_4_0_0_89_0_0_2_triangle,4,0,0,89,0,0,2,tani,triangle
+105,5,camera5_0_0_0_75_0_07_2_triangle,0,0,0,75,0,0.7,2,signal,triangle
+106,6,camera6_1_0_0_75_0_07_2_triangle,1,0,0,75,0,0.7,2,signal,triangle
+107,7,camera7_2_0_0_75_0_07_2_triangle,2,0,0,75,0,0.7,2,signal,triangle
+108,8,camera8_3_0_0_75_0_07_2_triangle,3,0,0,75,0,0.7,2,signal,triangle
+109,9,camera9_4_0_0_75_0_07_2_triangle,4,0,0,75,0,0.7,2,signal,triangle
+110,10,camera10_0_0_0_86_0_111_2_triangle,0,0,0,86,0,1.11,2,signal,triangle
+111,11,camera11_1_0_0_86_0_111_2_triangle,1,0,0,86,0,1.11,2,signal,triangle
+112,12,camera12_2_0_0_86_0_111_2_triangle,2,0,0,86,0,1.11,2,signal,triangle
+113,13,camera13_3_0_0_86_0_111_2_triangle,3,0,0,86,0,1.11,2,signal,triangle
+114,14,camera14_4_0_0_86_0_111_2_triangle,4,0,0,86,0,1.11,2,signal,triangle
+115,15,camera15_0_0_0_78_0_m155_2_triangle,0,0,0,78,0,-1.55,2,signal,triangle
+116,16,camera16_1_0_0_78_0_m155_2_triangle,1,0,0,78,0,-1.55,2,signal,triangle
+117,17,camera17_2_0_0_78_0_m155_2_triangle,2,0,0,78,0,-1.55,2,signal,triangle
+118,18,camera18_3_0_0_78_0_m155_2_triangle,3,0,0,78,0,-1.55,2,signal,triangle
+119,19,camera19_4_0_0_78_0_m155_2_triangle,4,0,0,78,0,-1.55,2,signal,triangle
+120,20,camera20_0_0_0_80_0_m137_2_triangle,0,0,0,80,0,-1.37,2,signal,triangle
+121,21,camera21_1_0_0_80_0_m137_2_triangle,1,0,0,80,0,-1.37,2,signal,triangle
+122,22,camera22_2_0_0_80_0_m137_2_triangle,2,0,0,80,0,-1.37,2,signal,triangle
+123,23,camera23_3_0_0_80_0_m137_2_triangle,3,0,0,80,0,-1.37,2,signal,triangle
+124,24,camera24_4_0_0_80_0_m137_2_triangle,4,0,0,80,0,-1.37,2,signal,triangle
+125,25,camera25_0_0_0_96_0_213_2_triangle,0,0,0,96,0,2.13,2,signal,triangle
+126,26,camera26_1_0_0_96_0_213_2_triangle,1,0,0,96,0,2.13,2,signal,triangle
+127,27,camera27_2_0_0_96_0_213_2_triangle,2,0,0,96,0,2.13,2,signal,triangle
+128,28,camera28_3_0_0_96_0_213_2_triangle,3,0,0,96,0,2.13,2,signal,triangle
+129,29,camera29_4_0_0_96_0_213_2_triangle,4,0,0,96,0,2.13,2,signal,triangle
+130,30,camera30_0_0_0_78_0_039_2_triangle,0,0,0,78,0,0.39,2,signal,triangle
+131,31,camera31_1_0_0_78_0_039_2_triangle,1,0,0,78,0,0.39,2,signal,triangle
+132,32,camera32_2_0_0_78_0_039_2_triangle,2,0,0,78,0,0.39,2,signal,triangle
+133,33,camera33_3_0_0_78_0_039_2_triangle,3,0,0,78,0,0.39,2,signal,triangle
+134,34,camera34_4_0_0_78_0_039_2_triangle,4,0,0,78,0,0.39,2,signal,triangle
+135,35,camera35_0_0_0_91_0_143_2_triangle,0,0,0,91,0,1.43,2,tani,triangle
+136,36,camera36_1_0_0_91_0_143_2_triangle,1,0,0,91,0,1.43,2,tani,triangle
+137,37,camera37_2_0_0_91_0_143_2_triangle,2,0,0,91,0,1.43,2,tani,triangle
+138,38,camera38_3_0_0_91_0_143_2_triangle,3,0,0,91,0,1.43,2,tani,triangle
+139,39,camera39_4_0_0_91_0_143_2_triangle,4,0,0,91,0,1.43,2,tani,triangle
+140,40,camera40_0_0_0_87_0_23_2_triangle,0,0,0,87,0,2.3,2,signal,triangle
+141,41,camera41_1_0_0_87_0_23_2_triangle,1,0,0,87,0,2.3,2,signal,triangle
+142,42,camera42_2_0_0_87_0_23_2_triangle,2,0,0,87,0,2.3,2,signal,triangle
+143,43,camera43_3_0_0_87_0_23_2_triangle,3,0,0,87,0,2.3,2,signal,triangle
+144,44,camera44_4_0_0_87_0_23_2_triangle,4,0,0,87,0,2.3,2,signal,triangle
+145,45,camera45_0_0_0_102_0_028_2_triangle,0,0,0,102,0,0.28,2,signal,triangle
+146,46,camera46_1_0_0_102_0_028_2_triangle,1,0,0,102,0,0.28,2,signal,triangle
+147,47,camera47_2_0_0_102_0_028_2_triangle,2,0,0,102,0,0.28,2,signal,triangle
+148,48,camera48_3_0_0_102_0_028_2_triangle,3,0,0,102,0,0.28,2,signal,triangle
+149,49,camera49_4_0_0_102_0_028_2_triangle,4,0,0,102,0,0.28,2,signal,triangle
+150,0,camera0_0_0_0_89_0_0_3_rectangle,0,0,0,89,0,0,3,tani,rectangle
+151,1,camera1_1_0_0_89_0_0_3_rectangle,1,0,0,89,0,0,3,tani,rectangle
+152,2,camera2_2_0_0_89_0_0_3_rectangle,2,0,0,89,0,0,3,tani,rectangle
+153,3,camera3_3_0_0_89_0_0_3_rectangle,3,0,0,89,0,0,3,tani,rectangle
+154,4,camera4_4_0_0_89_0_0_3_rectangle,4,0,0,89,0,0,3,tani,rectangle
+155,5,camera5_0_0_0_89_0_213_3_rectangle,0,0,0,89,0,2.13,3,signal,rectangle
+156,6,camera6_1_0_0_89_0_213_3_rectangle,1,0,0,89,0,2.13,3,signal,rectangle
+157,7,camera7_2_0_0_89_0_213_3_rectangle,2,0,0,89,0,2.13,3,signal,rectangle
+158,8,camera8_3_0_0_89_0_213_3_rectangle,3,0,0,89,0,2.13,3,signal,rectangle
+159,9,camera9_4_0_0_89_0_213_3_rectangle,4,0,0,89,0,2.13,3,signal,rectangle
+160,10,camera10_0_0_0_77_0_m05_3_rectangle,0,0,0,77,0,-0.5,3,signal,rectangle
+161,11,camera11_1_0_0_77_0_m05_3_rectangle,1,0,0,77,0,-0.5,3,signal,rectangle
+162,12,camera12_2_0_0_77_0_m05_3_rectangle,2,0,0,77,0,-0.5,3,signal,rectangle
+163,13,camera13_3_0_0_77_0_m05_3_rectangle,3,0,0,77,0,-0.5,3,signal,rectangle
+164,14,camera14_4_0_0_77_0_m05_3_rectangle,4,0,0,77,0,-0.5,3,signal,rectangle
+165,15,camera15_0_0_0_91_0_081_3_rectangle,0,0,0,91,0,0.81,3,tani,rectangle
+166,16,camera16_1_0_0_91_0_081_3_rectangle,1,0,0,91,0,0.81,3,tani,rectangle
+167,17,camera17_2_0_0_91_0_081_3_rectangle,2,0,0,91,0,0.81,3,tani,rectangle
+168,18,camera18_3_0_0_91_0_081_3_rectangle,3,0,0,91,0,0.81,3,tani,rectangle
+169,19,camera19_4_0_0_91_0_081_3_rectangle,4,0,0,91,0,0.81,3,tani,rectangle
+170,20,camera20_0_0_0_90_0_148_3_rectangle,0,0,0,90,0,1.48,3,signal,rectangle
+171,21,camera21_1_0_0_90_0_148_3_rectangle,1,0,0,90,0,1.48,3,signal,rectangle
+172,22,camera22_2_0_0_90_0_148_3_rectangle,2,0,0,90,0,1.48,3,signal,rectangle
+173,23,camera23_3_0_0_90_0_148_3_rectangle,3,0,0,90,0,1.48,3,signal,rectangle
+174,24,camera24_4_0_0_90_0_148_3_rectangle,4,0,0,90,0,1.48,3,signal,rectangle
+175,25,camera25_0_0_0_88_0_m09_3_rectangle,0,0,0,88,0,-0.9,3,signal,rectangle
+176,26,camera26_1_0_0_88_0_m09_3_rectangle,1,0,0,88,0,-0.9,3,signal,rectangle
+177,27,camera27_2_0_0_88_0_m09_3_rectangle,2,0,0,88,0,-0.9,3,signal,rectangle
+178,28,camera28_3_0_0_88_0_m09_3_rectangle,3,0,0,88,0,-0.9,3,signal,rectangle
+179,29,camera29_4_0_0_88_0_m09_3_rectangle,4,0,0,88,0,-0.9,3,signal,rectangle
+180,30,camera30_0_0_0_85_0_10_3_rectangle,0,0,0,85,0,1,3,signal,rectangle
+181,31,camera31_1_0_0_85_0_10_3_rectangle,1,0,0,85,0,1,3,signal,rectangle
+182,32,camera32_2_0_0_85_0_10_3_rectangle,2,0,0,85,0,1,3,signal,rectangle
+183,33,camera33_3_0_0_85_0_10_3_rectangle,3,0,0,85,0,1,3,signal,rectangle
+184,34,camera34_4_0_0_85_0_10_3_rectangle,4,0,0,85,0,1,3,signal,rectangle
+185,35,camera35_0_0_0_97_0_m097_3_rectangle,0,0,0,97,0,-0.97,3,signal,rectangle
+186,36,camera36_1_0_0_97_0_m097_3_rectangle,1,0,0,97,0,-0.97,3,signal,rectangle
+187,37,camera37_2_0_0_97_0_m097_3_rectangle,2,0,0,97,0,-0.97,3,signal,rectangle
+188,38,camera38_3_0_0_97_0_m097_3_rectangle,3,0,0,97,0,-0.97,3,signal,rectangle
+189,39,camera39_4_0_0_97_0_m097_3_rectangle,4,0,0,97,0,-0.97,3,signal,rectangle
+190,40,camera40_0_0_0_101_0_113_3_rectangle,0,0,0,101,0,1.13,3,signal,rectangle
+191,41,camera41_1_0_0_101_0_113_3_rectangle,1,0,0,101,0,1.13,3,signal,rectangle
+192,42,camera42_2_0_0_101_0_113_3_rectangle,2,0,0,101,0,1.13,3,signal,rectangle
+193,43,camera43_3_0_0_101_0_113_3_rectangle,3,0,0,101,0,1.13,3,signal,rectangle
+194,44,camera44_4_0_0_101_0_113_3_rectangle,4,0,0,101,0,1.13,3,signal,rectangle
+195,45,camera45_0_0_0_93_0_m036_3_rectangle,0,0,0,93,0,-0.36,3,tani,rectangle
+196,46,camera46_1_0_0_93_0_m036_3_rectangle,1,0,0,93,0,-0.36,3,tani,rectangle
+197,47,camera47_2_0_0_93_0_m036_3_rectangle,2,0,0,93,0,-0.36,3,tani,rectangle
+198,48,camera48_3_0_0_93_0_m036_3_rectangle,3,0,0,93,0,-0.36,3,tani,rectangle
+199,49,camera49_4_0_0_93_0_m036_3_rectangle,4,0,0,93,0,-0.36,3,tani,rectangle
+200,0,camera0_0_0_0_89_0_0_4_pentagon,0,0,0,89,0,0,4,tani,pentagon
+201,1,camera1_1_0_0_89_0_0_4_pentagon,1,0,0,89,0,0,4,tani,pentagon
+202,2,camera2_2_0_0_89_0_0_4_pentagon,2,0,0,89,0,0,4,tani,pentagon
+203,3,camera3_3_0_0_89_0_0_4_pentagon,3,0,0,89,0,0,4,tani,pentagon
+204,4,camera4_4_0_0_89_0_0_4_pentagon,4,0,0,89,0,0,4,tani,pentagon
+205,5,camera5_0_0_0_95_0_031_4_pentagon,0,0,0,95,0,0.31,4,signal,pentagon
+206,6,camera6_1_0_0_95_0_031_4_pentagon,1,0,0,95,0,0.31,4,signal,pentagon
+207,7,camera7_2_0_0_95_0_031_4_pentagon,2,0,0,95,0,0.31,4,signal,pentagon
+208,8,camera8_3_0_0_95_0_031_4_pentagon,3,0,0,95,0,0.31,4,signal,pentagon
+209,9,camera9_4_0_0_95_0_031_4_pentagon,4,0,0,95,0,0.31,4,signal,pentagon
+210,10,camera10_0_0_0_103_0_029_4_pentagon,0,0,0,103,0,0.29,4,signal,pentagon
+211,11,camera11_1_0_0_103_0_029_4_pentagon,1,0,0,103,0,0.29,4,signal,pentagon
+212,12,camera12_2_0_0_103_0_029_4_pentagon,2,0,0,103,0,0.29,4,signal,pentagon
+213,13,camera13_3_0_0_103_0_029_4_pentagon,3,0,0,103,0,0.29,4,signal,pentagon
+214,14,camera14_4_0_0_103_0_029_4_pentagon,4,0,0,103,0,0.29,4,signal,pentagon
+215,15,camera15_0_0_0_91_0_m083_4_pentagon,0,0,0,91,0,-0.83,4,tani,pentagon
+216,16,camera16_1_0_0_91_0_m083_4_pentagon,1,0,0,91,0,-0.83,4,tani,pentagon
+217,17,camera17_2_0_0_91_0_m083_4_pentagon,2,0,0,91,0,-0.83,4,tani,pentagon
+218,18,camera18_3_0_0_91_0_m083_4_pentagon,3,0,0,91,0,-0.83,4,tani,pentagon
+219,19,camera19_4_0_0_91_0_m083_4_pentagon,4,0,0,91,0,-0.83,4,tani,pentagon
+220,20,camera20_0_0_0_90_0_m139_4_pentagon,0,0,0,90,0,-1.39,4,signal,pentagon
+221,21,camera21_1_0_0_90_0_m139_4_pentagon,1,0,0,90,0,-1.39,4,signal,pentagon
+222,22,camera22_2_0_0_90_0_m139_4_pentagon,2,0,0,90,0,-1.39,4,signal,pentagon
+223,23,camera23_3_0_0_90_0_m139_4_pentagon,3,0,0,90,0,-1.39,4,signal,pentagon
+224,24,camera24_4_0_0_90_0_m139_4_pentagon,4,0,0,90,0,-1.39,4,signal,pentagon
+225,25,camera25_0_0_0_87_0_m18_4_pentagon,0,0,0,87,0,-1.8,4,signal,pentagon
+226,26,camera26_1_0_0_87_0_m18_4_pentagon,1,0,0,87,0,-1.8,4,signal,pentagon
+227,27,camera27_2_0_0_87_0_m18_4_pentagon,2,0,0,87,0,-1.8,4,signal,pentagon
+228,28,camera28_3_0_0_87_0_m18_4_pentagon,3,0,0,87,0,-1.8,4,signal,pentagon
+229,29,camera29_4_0_0_87_0_m18_4_pentagon,4,0,0,87,0,-1.8,4,signal,pentagon
+230,30,camera30_0_0_0_99_0_101_4_pentagon,0,0,0,99,0,1.01,4,signal,pentagon
+231,31,camera31_1_0_0_99_0_101_4_pentagon,1,0,0,99,0,1.01,4,signal,pentagon
+232,32,camera32_2_0_0_99_0_101_4_pentagon,2,0,0,99,0,1.01,4,signal,pentagon
+233,33,camera33_3_0_0_99_0_101_4_pentagon,3,0,0,99,0,1.01,4,signal,pentagon
+234,34,camera34_4_0_0_99_0_101_4_pentagon,4,0,0,99,0,1.01,4,signal,pentagon
+235,35,camera35_0_0_0_82_0_082_4_pentagon,0,0,0,82,0,0.82,4,signal,pentagon
+236,36,camera36_1_0_0_82_0_082_4_pentagon,1,0,0,82,0,0.82,4,signal,pentagon
+237,37,camera37_2_0_0_82_0_082_4_pentagon,2,0,0,82,0,0.82,4,signal,pentagon
+238,38,camera38_3_0_0_82_0_082_4_pentagon,3,0,0,82,0,0.82,4,signal,pentagon
+239,39,camera39_4_0_0_82_0_082_4_pentagon,4,0,0,82,0,0.82,4,signal,pentagon
+240,40,camera40_0_0_0_85_0_106_4_pentagon,0,0,0,85,0,1.06,4,signal,pentagon
+241,41,camera41_1_0_0_85_0_106_4_pentagon,1,0,0,85,0,1.06,4,signal,pentagon
+242,42,camera42_2_0_0_85_0_106_4_pentagon,2,0,0,85,0,1.06,4,signal,pentagon
+243,43,camera43_3_0_0_85_0_106_4_pentagon,3,0,0,85,0,1.06,4,signal,pentagon
+244,44,camera44_4_0_0_85_0_106_4_pentagon,4,0,0,85,0,1.06,4,signal,pentagon
+245,45,camera45_0_0_0_85_0_m033_4_pentagon,0,0,0,85,0,-0.33,4,signal,pentagon
+246,46,camera46_1_0_0_85_0_m033_4_pentagon,1,0,0,85,0,-0.33,4,signal,pentagon
+247,47,camera47_2_0_0_85_0_m033_4_pentagon,2,0,0,85,0,-0.33,4,signal,pentagon
+248,48,camera48_3_0_0_85_0_m033_4_pentagon,3,0,0,85,0,-0.33,4,signal,pentagon
+249,49,camera49_4_0_0_85_0_m033_4_pentagon,4,0,0,85,0,-0.33,4,signal,pentagon
+250,0,camera0_0_0_0_89_0_0_5_bevelsq,0,0,0,89,0,0,5,tani,bevelsq
+251,1,camera1_1_0_0_89_0_0_5_bevelsq,1,0,0,89,0,0,5,tani,bevelsq
+252,2,camera2_2_0_0_89_0_0_5_bevelsq,2,0,0,89,0,0,5,tani,bevelsq
+253,3,camera3_3_0_0_89_0_0_5_bevelsq,3,0,0,89,0,0,5,tani,bevelsq
+254,4,camera4_4_0_0_89_0_0_5_bevelsq,4,0,0,89,0,0,5,tani,bevelsq
+255,5,camera5_0_0_0_97_0_m226_5_bevelsq,0,0,0,97,0,-2.26,5,signal,bevelsq
+256,6,camera6_1_0_0_97_0_m226_5_bevelsq,1,0,0,97,0,-2.26,5,signal,bevelsq
+257,7,camera7_2_0_0_97_0_m226_5_bevelsq,2,0,0,97,0,-2.26,5,signal,bevelsq
+258,8,camera8_3_0_0_97_0_m226_5_bevelsq,3,0,0,97,0,-2.26,5,signal,bevelsq
+259,9,camera9_4_0_0_97_0_m226_5_bevelsq,4,0,0,97,0,-2.26,5,signal,bevelsq
+260,10,camera10_0_0_0_97_0_m025_5_bevelsq,0,0,0,97,0,-0.25,5,signal,bevelsq
+261,11,camera11_1_0_0_97_0_m025_5_bevelsq,1,0,0,97,0,-0.25,5,signal,bevelsq
+262,12,camera12_2_0_0_97_0_m025_5_bevelsq,2,0,0,97,0,-0.25,5,signal,bevelsq
+263,13,camera13_3_0_0_97_0_m025_5_bevelsq,3,0,0,97,0,-0.25,5,signal,bevelsq
+264,14,camera14_4_0_0_97_0_m025_5_bevelsq,4,0,0,97,0,-0.25,5,signal,bevelsq
+265,15,camera15_0_0_0_83_0_m061_5_bevelsq,0,0,0,83,0,-0.61,5,signal,bevelsq
+266,16,camera16_1_0_0_83_0_m061_5_bevelsq,1,0,0,83,0,-0.61,5,signal,bevelsq
+267,17,camera17_2_0_0_83_0_m061_5_bevelsq,2,0,0,83,0,-0.61,5,signal,bevelsq
+268,18,camera18_3_0_0_83_0_m061_5_bevelsq,3,0,0,83,0,-0.61,5,signal,bevelsq
+269,19,camera19_4_0_0_83_0_m061_5_bevelsq,4,0,0,83,0,-0.61,5,signal,bevelsq
+270,20,camera20_0_0_0_94_0_063_5_bevelsq,0,0,0,94,0,0.63,5,signal,bevelsq
+271,21,camera21_1_0_0_94_0_063_5_bevelsq,1,0,0,94,0,0.63,5,signal,bevelsq
+272,22,camera22_2_0_0_94_0_063_5_bevelsq,2,0,0,94,0,0.63,5,signal,bevelsq
+273,23,camera23_3_0_0_94_0_063_5_bevelsq,3,0,0,94,0,0.63,5,signal,bevelsq
+274,24,camera24_4_0_0_94_0_063_5_bevelsq,4,0,0,94,0,0.63,5,signal,bevelsq
+275,25,camera25_0_0_0_88_0_m165_5_bevelsq,0,0,0,88,0,-1.65,5,signal,bevelsq
+276,26,camera26_1_0_0_88_0_m165_5_bevelsq,1,0,0,88,0,-1.65,5,signal,bevelsq
+277,27,camera27_2_0_0_88_0_m165_5_bevelsq,2,0,0,88,0,-1.65,5,signal,bevelsq
+278,28,camera28_3_0_0_88_0_m165_5_bevelsq,3,0,0,88,0,-1.65,5,signal,bevelsq
+279,29,camera29_4_0_0_88_0_m165_5_bevelsq,4,0,0,88,0,-1.65,5,signal,bevelsq
+280,30,camera30_0_0_0_90_0_m059_5_bevelsq,0,0,0,90,0,-0.59,5,tani,bevelsq
+281,31,camera31_1_0_0_90_0_m059_5_bevelsq,1,0,0,90,0,-0.59,5,tani,bevelsq
+282,32,camera32_2_0_0_90_0_m059_5_bevelsq,2,0,0,90,0,-0.59,5,tani,bevelsq
+283,33,camera33_3_0_0_90_0_m059_5_bevelsq,3,0,0,90,0,-0.59,5,tani,bevelsq
+284,34,camera34_4_0_0_90_0_m059_5_bevelsq,4,0,0,90,0,-0.59,5,tani,bevelsq
+285,35,camera35_0_0_0_85_0_069_5_bevelsq,0,0,0,85,0,0.69,5,signal,bevelsq
+286,36,camera36_1_0_0_85_0_069_5_bevelsq,1,0,0,85,0,0.69,5,signal,bevelsq
+287,37,camera37_2_0_0_85_0_069_5_bevelsq,2,0,0,85,0,0.69,5,signal,bevelsq
+288,38,camera38_3_0_0_85_0_069_5_bevelsq,3,0,0,85,0,0.69,5,signal,bevelsq
+289,39,camera39_4_0_0_85_0_069_5_bevelsq,4,0,0,85,0,0.69,5,signal,bevelsq
+290,40,camera40_0_0_0_92_0_033_5_bevelsq,0,0,0,92,0,0.33,5,signal,bevelsq
+291,41,camera41_1_0_0_92_0_033_5_bevelsq,1,0,0,92,0,0.33,5,signal,bevelsq
+292,42,camera42_2_0_0_92_0_033_5_bevelsq,2,0,0,92,0,0.33,5,signal,bevelsq
+293,43,camera43_3_0_0_92_0_033_5_bevelsq,3,0,0,92,0,0.33,5,signal,bevelsq
+294,44,camera44_4_0_0_92_0_033_5_bevelsq,4,0,0,92,0,0.33,5,signal,bevelsq
+295,45,camera45_0_0_0_79_0_117_5_bevelsq,0,0,0,79,0,1.17,5,signal,bevelsq
+296,46,camera46_1_0_0_79_0_117_5_bevelsq,1,0,0,79,0,1.17,5,signal,bevelsq
+297,47,camera47_2_0_0_79_0_117_5_bevelsq,2,0,0,79,0,1.17,5,signal,bevelsq
+298,48,camera48_3_0_0_79_0_117_5_bevelsq,3,0,0,79,0,1.17,5,signal,bevelsq
+299,49,camera49_4_0_0_79_0_117_5_bevelsq,4,0,0,79,0,1.17,5,signal,bevelsq
+300,0,camera0_0_0_0_89_0_0_6_bevelled triangle,0,0,0,89,0,0,6,tani,bevelled triangle
+301,1,camera1_1_0_0_89_0_0_6_bevelled triangle,1,0,0,89,0,0,6,tani,bevelled triangle
+302,2,camera2_2_0_0_89_0_0_6_bevelled triangle,2,0,0,89,0,0,6,tani,bevelled triangle
+303,3,camera3_3_0_0_89_0_0_6_bevelled triangle,3,0,0,89,0,0,6,tani,bevelled triangle
+304,4,camera4_4_0_0_89_0_0_6_bevelled triangle,4,0,0,89,0,0,6,tani,bevelled triangle
+305,5,camera5_0_0_0_83_0_m015_6_bevelled triangle,0,0,0,83,0,-0.15,6,signal,bevelled triangle
+306,6,camera6_1_0_0_83_0_m015_6_bevelled triangle,1,0,0,83,0,-0.15,6,signal,bevelled triangle
+307,7,camera7_2_0_0_83_0_m015_6_bevelled triangle,2,0,0,83,0,-0.15,6,signal,bevelled triangle
+308,8,camera8_3_0_0_83_0_m015_6_bevelled triangle,3,0,0,83,0,-0.15,6,signal,bevelled triangle
+309,9,camera9_4_0_0_83_0_m015_6_bevelled triangle,4,0,0,83,0,-0.15,6,signal,bevelled triangle
+310,10,camera10_0_0_0_76_0_m098_6_bevelled triangle,0,0,0,76,0,-0.98,6,signal,bevelled triangle
+311,11,camera11_1_0_0_76_0_m098_6_bevelled triangle,1,0,0,76,0,-0.98,6,signal,bevelled triangle
+312,12,camera12_2_0_0_76_0_m098_6_bevelled triangle,2,0,0,76,0,-0.98,6,signal,bevelled triangle
+313,13,camera13_3_0_0_76_0_m098_6_bevelled triangle,3,0,0,76,0,-0.98,6,signal,bevelled triangle
+314,14,camera14_4_0_0_76_0_m098_6_bevelled triangle,4,0,0,76,0,-0.98,6,signal,bevelled triangle
+315,15,camera15_0_0_0_102_0_m048_6_bevelled triangle,0,0,0,102,0,-0.48,6,signal,bevelled triangle
+316,16,camera16_1_0_0_102_0_m048_6_bevelled triangle,1,0,0,102,0,-0.48,6,signal,bevelled triangle
+317,17,camera17_2_0_0_102_0_m048_6_bevelled triangle,2,0,0,102,0,-0.48,6,signal,bevelled triangle
+318,18,camera18_3_0_0_102_0_m048_6_bevelled triangle,3,0,0,102,0,-0.48,6,signal,bevelled triangle
+319,19,camera19_4_0_0_102_0_m048_6_bevelled triangle,4,0,0,102,0,-0.48,6,signal,bevelled triangle
+320,20,camera20_0_0_0_91_0_m046_6_bevelled triangle,0,0,0,91,0,-0.46,6,tani,bevelled triangle
+321,21,camera21_1_0_0_91_0_m046_6_bevelled triangle,1,0,0,91,0,-0.46,6,tani,bevelled triangle
+322,22,camera22_2_0_0_91_0_m046_6_bevelled triangle,2,0,0,91,0,-0.46,6,tani,bevelled triangle
+323,23,camera23_3_0_0_91_0_m046_6_bevelled triangle,3,0,0,91,0,-0.46,6,tani,bevelled triangle
+324,24,camera24_4_0_0_91_0_m046_6_bevelled triangle,4,0,0,91,0,-0.46,6,tani,bevelled triangle
+325,25,camera25_0_0_0_103_0_m151_6_bevelled triangle,0,0,0,103,0,-1.51,6,signal,bevelled triangle
+326,26,camera26_1_0_0_103_0_m151_6_bevelled triangle,1,0,0,103,0,-1.51,6,signal,bevelled triangle
+327,27,camera27_2_0_0_103_0_m151_6_bevelled triangle,2,0,0,103,0,-1.51,6,signal,bevelled triangle
+328,28,camera28_3_0_0_103_0_m151_6_bevelled triangle,3,0,0,103,0,-1.51,6,signal,bevelled triangle
+329,29,camera29_4_0_0_103_0_m151_6_bevelled triangle,4,0,0,103,0,-1.51,6,signal,bevelled triangle
+330,30,camera30_0_0_0_81_0_218_6_bevelled triangle,0,0,0,81,0,2.18,6,signal,bevelled triangle
+331,31,camera31_1_0_0_81_0_218_6_bevelled triangle,1,0,0,81,0,2.18,6,signal,bevelled triangle
+332,32,camera32_2_0_0_81_0_218_6_bevelled triangle,2,0,0,81,0,2.18,6,signal,bevelled triangle
+333,33,camera33_3_0_0_81_0_218_6_bevelled triangle,3,0,0,81,0,2.18,6,signal,bevelled triangle
+334,34,camera34_4_0_0_81_0_218_6_bevelled triangle,4,0,0,81,0,2.18,6,signal,bevelled triangle
+335,35,camera35_0_0_0_100_0_m211_6_bevelled triangle,0,0,0,100,0,-2.11,6,signal,bevelled triangle
+336,36,camera36_1_0_0_100_0_m211_6_bevelled triangle,1,0,0,100,0,-2.11,6,signal,bevelled triangle
+337,37,camera37_2_0_0_100_0_m211_6_bevelled triangle,2,0,0,100,0,-2.11,6,signal,bevelled triangle
+338,38,camera38_3_0_0_100_0_m211_6_bevelled triangle,3,0,0,100,0,-2.11,6,signal,bevelled triangle
+339,39,camera39_4_0_0_100_0_m211_6_bevelled triangle,4,0,0,100,0,-2.11,6,signal,bevelled triangle
+340,40,camera40_0_0_0_78_0_m051_6_bevelled triangle,0,0,0,78,0,-0.51,6,signal,bevelled triangle
+341,41,camera41_1_0_0_78_0_m051_6_bevelled triangle,1,0,0,78,0,-0.51,6,signal,bevelled triangle
+342,42,camera42_2_0_0_78_0_m051_6_bevelled triangle,2,0,0,78,0,-0.51,6,signal,bevelled triangle
+343,43,camera43_3_0_0_78_0_m051_6_bevelled triangle,3,0,0,78,0,-0.51,6,signal,bevelled triangle
+344,44,camera44_4_0_0_78_0_m051_6_bevelled triangle,4,0,0,78,0,-0.51,6,signal,bevelled triangle
+345,45,camera45_0_0_0_90_0_145_6_bevelled triangle,0,0,0,90,0,1.45,6,signal,bevelled triangle
+346,46,camera46_1_0_0_90_0_145_6_bevelled triangle,1,0,0,90,0,1.45,6,signal,bevelled triangle
+347,47,camera47_2_0_0_90_0_145_6_bevelled triangle,2,0,0,90,0,1.45,6,signal,bevelled triangle
+348,48,camera48_3_0_0_90_0_145_6_bevelled triangle,3,0,0,90,0,1.45,6,signal,bevelled triangle
+349,49,camera49_4_0_0_90_0_145_6_bevelled triangle,4,0,0,90,0,1.45,6,signal,bevelled triangle
+350,0,camera0_0_0_0_89_0_0_7_torus,0,0,0,89,0,0,7,tani,torus
+351,1,camera1_1_0_0_89_0_0_7_torus,1,0,0,89,0,0,7,tani,torus
+352,2,camera2_2_0_0_89_0_0_7_torus,2,0,0,89,0,0,7,tani,torus
+353,3,camera3_3_0_0_89_0_0_7_torus,3,0,0,89,0,0,7,tani,torus
+354,4,camera4_4_0_0_89_0_0_7_torus,4,0,0,89,0,0,7,tani,torus
+355,5,camera5_0_0_0_82_0_125_7_torus,0,0,0,82,0,1.25,7,signal,torus
+356,6,camera6_1_0_0_82_0_125_7_torus,1,0,0,82,0,1.25,7,signal,torus
+357,7,camera7_2_0_0_82_0_125_7_torus,2,0,0,82,0,1.25,7,signal,torus
+358,8,camera8_3_0_0_82_0_125_7_torus,3,0,0,82,0,1.25,7,signal,torus
+359,9,camera9_4_0_0_82_0_125_7_torus,4,0,0,82,0,1.25,7,signal,torus
+360,10,camera10_0_0_0_99_0_124_7_torus,0,0,0,99,0,1.24,7,signal,torus
+361,11,camera11_1_0_0_99_0_124_7_torus,1,0,0,99,0,1.24,7,signal,torus
+362,12,camera12_2_0_0_99_0_124_7_torus,2,0,0,99,0,1.24,7,signal,torus
+363,13,camera13_3_0_0_99_0_124_7_torus,3,0,0,99,0,1.24,7,signal,torus
+364,14,camera14_4_0_0_99_0_124_7_torus,4,0,0,99,0,1.24,7,signal,torus
+365,15,camera15_0_0_0_83_0_176_7_torus,0,0,0,83,0,1.76,7,signal,torus
+366,16,camera16_1_0_0_83_0_176_7_torus,1,0,0,83,0,1.76,7,signal,torus
+367,17,camera17_2_0_0_83_0_176_7_torus,2,0,0,83,0,1.76,7,signal,torus
+368,18,camera18_3_0_0_83_0_176_7_torus,3,0,0,83,0,1.76,7,signal,torus
+369,19,camera19_4_0_0_83_0_176_7_torus,4,0,0,83,0,1.76,7,signal,torus
+370,20,camera20_0_0_0_79_0_219_7_torus,0,0,0,79,0,2.19,7,signal,torus
+371,21,camera21_1_0_0_79_0_219_7_torus,1,0,0,79,0,2.19,7,signal,torus
+372,22,camera22_2_0_0_79_0_219_7_torus,2,0,0,79,0,2.19,7,signal,torus
+373,23,camera23_3_0_0_79_0_219_7_torus,3,0,0,79,0,2.19,7,signal,torus
+374,24,camera24_4_0_0_79_0_219_7_torus,4,0,0,79,0,2.19,7,signal,torus
+375,25,camera25_0_0_0_80_0_m187_7_torus,0,0,0,80,0,-1.87,7,signal,torus
+376,26,camera26_1_0_0_80_0_m187_7_torus,1,0,0,80,0,-1.87,7,signal,torus
+377,27,camera27_2_0_0_80_0_m187_7_torus,2,0,0,80,0,-1.87,7,signal,torus
+378,28,camera28_3_0_0_80_0_m187_7_torus,3,0,0,80,0,-1.87,7,signal,torus
+379,29,camera29_4_0_0_80_0_m187_7_torus,4,0,0,80,0,-1.87,7,signal,torus
+380,30,camera30_0_0_0_82_0_m013_7_torus,0,0,0,82,0,-0.13,7,signal,torus
+381,31,camera31_1_0_0_82_0_m013_7_torus,1,0,0,82,0,-0.13,7,signal,torus
+382,32,camera32_2_0_0_82_0_m013_7_torus,2,0,0,82,0,-0.13,7,signal,torus
+383,33,camera33_3_0_0_82_0_m013_7_torus,3,0,0,82,0,-0.13,7,signal,torus
+384,34,camera34_4_0_0_82_0_m013_7_torus,4,0,0,82,0,-0.13,7,signal,torus
+385,35,camera35_0_0_0_84_0_m17_7_torus,0,0,0,84,0,-1.7,7,tani,torus
+386,36,camera36_1_0_0_84_0_m17_7_torus,1,0,0,84,0,-1.7,7,tani,torus
+387,37,camera37_2_0_0_84_0_m17_7_torus,2,0,0,84,0,-1.7,7,tani,torus
+388,38,camera38_3_0_0_84_0_m17_7_torus,3,0,0,84,0,-1.7,7,tani,torus
+389,39,camera39_4_0_0_84_0_m17_7_torus,4,0,0,84,0,-1.7,7,tani,torus
+390,40,camera40_0_0_0_83_0_143_7_torus,0,0,0,83,0,1.43,7,signal,torus
+391,41,camera41_1_0_0_83_0_143_7_torus,1,0,0,83,0,1.43,7,signal,torus
+392,42,camera42_2_0_0_83_0_143_7_torus,2,0,0,83,0,1.43,7,signal,torus
+393,43,camera43_3_0_0_83_0_143_7_torus,3,0,0,83,0,1.43,7,signal,torus
+394,44,camera44_4_0_0_83_0_143_7_torus,4,0,0,83,0,1.43,7,signal,torus
+395,45,camera45_0_0_0_77_0_m172_7_torus,0,0,0,77,0,-1.72,7,signal,torus
+396,46,camera46_1_0_0_77_0_m172_7_torus,1,0,0,77,0,-1.72,7,signal,torus
+397,47,camera47_2_0_0_77_0_m172_7_torus,2,0,0,77,0,-1.72,7,signal,torus
+398,48,camera48_3_0_0_77_0_m172_7_torus,3,0,0,77,0,-1.72,7,signal,torus
+399,49,camera49_4_0_0_77_0_m172_7_torus,4,0,0,77,0,-1.72,7,signal,torus
